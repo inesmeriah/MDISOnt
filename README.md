@@ -1,1 +1,1 @@
-Multi-dimensional Information Security Ontology (MDISOnt) provides a comprehensive view of information security domain.
+Multi-dimensional Information Security Ontology (MDISOnt) is a comprehensive information security ontology that helps security specialists and decision-makers remove ambiguous understanding of information security domain, decompose security into several perspectives using dimensional views and modules, and efficiently manage information security management into an organization.
