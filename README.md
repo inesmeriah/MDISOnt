@@ -8,3 +8,12 @@ This ontology is licensed under the Creative Commons Attribution 4.0 Internation
 
 https://creativecommons.org/licenses/by/4.0/
 
+## Citation
+
+If you use MDISOnt in your research, please cite:
+
+Meriah, I. et al.
+Building a Comprehensive and Multi-Dimensional Information Security Ontology:
+Elicitation Process and OWL Implementation.
+Knowledge and Information Systems, 2025.
+DOI: 10.1007/s10115-024-02308-y
