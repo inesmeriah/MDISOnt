@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: MDISOnt
+authors:
+
+* family-names: Meriah
+  given-names: Ines
+* family-names: Ben Arfa Rabai
+  given-names: Latifa
+* family-names: Khedri
+  given-names: Ridha
+  license: CC-BY-4.0
+  repository-code: "https://github.com/inesmeriah/MDISOnt"
